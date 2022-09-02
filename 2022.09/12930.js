@@ -9,5 +9,3 @@ function solution(s) {
     )
     .join(" ");
 }
-
-console.log(solution("try hello world"));
